@@ -1,6 +1,7 @@
 ---
 title: "Publications"
-layout: default
+layout: sidebar
+permalink: /publications/
 ---
 
 # Selected publications

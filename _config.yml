@@ -1,3 +1,6 @@
 title: "Letizia Bugiani"
 description: "PhD candidate in Astrophysics"
 theme: jekyll-theme-cayman
+
+sass:
+  style: compressed

@@ -1,7 +1,6 @@
 ---
 title: "Home"
 layout: sidebar
-permalink: /home/
 ---
 
 # Letizia Bugiani

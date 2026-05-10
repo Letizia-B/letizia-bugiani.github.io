@@ -1,7 +1,7 @@
-
 ---
 title: "Research"
-layout: default
+layout: sidebar
+parmalink: /research/
 ---
 
 # My interests 
